@@ -5,11 +5,13 @@ body {
 h1 {
     background-color: #00008b;
     color: #ffffff;
+    font-family: Verdana, sans-serif;
 }
 
 div {
-    background-color: lightblue;
+    background-color: hsl(195, 53%, 79%);
     width: 600px;
+    font-family: Arial, sans-serif;
 }
 
 h2 {
@@ -17,7 +19,7 @@ h2 {
 }
 
 h3 {
-    background-color: #ffe4c4;
+    background-color: rgb(255, 227, 194);
 }
 
 p {
